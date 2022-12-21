@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AF08AC312952FD350028196D /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF08AC302952FD350028196D /* FavoriteButton.swift */; };
+		AF08AC37295302230028196D /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF08AC36295302230028196D /* HexagonParameters.swift */; };
 		AF51D3722942F4DE0051B28C /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = AF51D3712942F4DE0051B28C /* landmarkData.json */; };
 		AF51D3772942F5C40051B28C /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF51D3762942F5C40051B28C /* Landmark.swift */; };
 		AF51D3792942F8F80051B28C /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF51D3782942F8F80051B28C /* ModelData.swift */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		AF08AC302952FD350028196D /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		AF08AC36295302230028196D /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		AF51D3712942F4DE0051B28C /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		AF51D3762942F5C40051B28C /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		AF51D3782942F8F80051B28C /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 			children = (
 				AF51D3762942F5C40051B28C /* Landmark.swift */,
 				AF51D3782942F8F80051B28C /* ModelData.swift */,
+				AF08AC36295302230028196D /* HexagonParameters.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				AF61B411293EC91B00374495 /* MapView.swift in Sources */,
 				AFC1A9E4293D908A009F4D2D /* SwiftUI_StudyApp.swift in Sources */,
 				AF08AC312952FD350028196D /* FavoriteButton.swift in Sources */,
+				AF08AC37295302230028196D /* HexagonParameters.swift in Sources */,
 				AF51D37F294300410051B28C /* LandmarkList.swift in Sources */,
 				AF51D3812943020E0051B28C /* LandmarkDetail.swift in Sources */,
 				AF61B40F293EC69800374495 /* CircleImage.swift in Sources */,
